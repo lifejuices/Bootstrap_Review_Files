@@ -39,7 +39,7 @@ body {
 /*--- Landing Page ---*/
 
 .home-inner {
-    background-image: url(https://www.saltandlavender.com/wp-content/uploads/2019/08/caprese-tortellini-pasta-salad-2.jpg);
+    background-image: url(../img/tortellini.jpg);
 }
 .caption{
     width: 100%;
@@ -135,7 +135,7 @@ color: #1ebba3;
 
 /* Resources Section */
 .fixed {
-    background-image: url(https://s3.us-east-2.amazonaws.com/jms-s3-cx-rel-p-pmc4/assets/smuckers/products/peanut-butter/13215.jpeg);
+    background-image: url(../img/smuckersgoober.jpeg);
     z-index: -1;
 }
 .dark {
